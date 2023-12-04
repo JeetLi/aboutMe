@@ -13,7 +13,7 @@
             <a href="">🌐</a>
         </td>
         <td>
-            <a href="https://colinbut.github.io/online-resume">📃</a>
+            <a href="">📃</a>
         </td>
     </tr>
 </table>
